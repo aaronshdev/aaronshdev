@@ -1,8 +1,9 @@
 <h1 align="center">Hola 👋, soy aaron</h1>
 <h3 align="center">Ingeniero en software</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronshdev&label=Profile%20views&color=0e75b6&style=flat" alt="aaronshdev" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronshdev&label=Profile%20views&color=0e75b6&style=flat" alt="aaronshdev" /></p>
+<p align="center"><img src="http://drive.google.com/uc?export=view&id=16c6xImKe8EYog_YqggnZNgbDMyN9V3K5" alt="logo" /></p>
+<h3 align="center"> SHDev</h3>
 <img src="http://drive.google.com/uc?export=view&id=1GKaoyf4kCtxB9trJM_mVfr1z9WbbF1qQ" alt="portada" />
 
 - 🔭 Mi ultimo trabajo fue en **DailyCo**
