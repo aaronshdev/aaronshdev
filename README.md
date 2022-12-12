@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Ciberseguridad**
 
-- Tengo habilidades en **Diseño UI/UX, Flutter y Web**
+- 🛠️ Tengo habilidades en **Diseño UI/UX, Flutter y Web**
 
 - 👨‍💻 Todos mis proyectos están [en mantenimiento](en mantenimiento)
 
